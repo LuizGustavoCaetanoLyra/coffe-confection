@@ -1,16 +1,14 @@
 
-/*
-font-family: 'Amatic SC', cursive;
-font-family: 'IBM Plex Sans', sans-serif;
-font-family: 'Indie Flower', cursive;
-font-family: 'Kalam', cursive;
-font-family: 'Permanent Marker', cursive;
+/* FONTES DE TEXTO PARA COFFE GAMER
+    
 Monofont-family: 'Roboto ', monospace;
 font-family: 'Russo One', sans-serif;
 font-family: 'Silkscreen', cursive;
+
 */
+
 /*
-*/
+
 .buttom1 {
     font-family: 'Roboto Mono', monospace;
 }
@@ -25,4 +23,50 @@ h1 {
 .pepino {
     font-family: 'Russo One', sans-serif;
     font-size: 17px;
+}
+
+.pepino3 {
+    font-family: 'Russo One', sans-serif;
+}
+
+ol li {  
+   
+    font-family: 'Bungee', cursive;
+    font-size: 1rem;
+
+ }
+*/
+/*
+coffe-gamer
+font-family: 'Amatic SC', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Lora', serif;
+font-family: 'Amatic SC', cursive;
+
+*/
+
+.coffe-gamer {
+    font-family: 'Amatic SC', cursive;
+    font-size: 4rem;
+}
+
+.pepino {
+    font-family: 'Lora', serif;
+    font-size: 1.4rem;
+}
+
+.pepino3 {
+    font-family: 'Chewy', cursive;
+}
+
+li {
+    font-family: 'Amatic SC', cursive;
+    font-size: 24px;
+}
+
+.imagen {
+  max-width: 50px;
+  padding: 20px;
+  position: center center;
+  flex-direction: column;
 }
