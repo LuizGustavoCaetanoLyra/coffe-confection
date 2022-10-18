@@ -48,11 +48,13 @@ font-family: 'Amatic SC', cursive;
 .coffe-gamer {
     font-family: 'Amatic SC', cursive;
     font-size: 4rem;
+    margin: 10px;
 }
 
 .pepino {
     font-family: 'Lora', serif;
     font-size: 1.4rem;
+    bottom: 25px;
 }
 
 .pepino3 {
@@ -64,9 +66,27 @@ li {
     font-size: 24px;
 }
 
-.imagen {
+
+.imagem {
   max-width: 50px;
   padding: 20px;
-  position: center center;
+  position: left;
   flex-direction: column;
+}
+
+body {
+  
+}
+
+.conteiner1 {
+  display: flex;
+  background-color: #8FBC8F;
+
+}
+
+.imagem3 {
+    position: relative;
+   position: bottom 100%;
+   
+    display: flex;
 }
