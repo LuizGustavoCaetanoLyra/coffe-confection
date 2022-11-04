@@ -1,5 +1,5 @@
-
-/* FONTES DE TEXTO PARA COFFE GAMER
+/*
+ FONTES DE TEXTO PARA COFFE GAMER
     
 Monofont-family: 'Roboto ', monospace;
 font-family: 'Russo One', sans-serif;
@@ -7,35 +7,37 @@ font-family: 'Silkscreen', cursive;
 
 */
 
-/*
+.conteiner2 {
+    background-color: #2EA9FE;
+}
 
 .buttom1 {
     font-family: 'Roboto Mono', monospace;
 }
 
-h1 {
+.coffe-gamer {
    
-    font-family: 'Silkscreen', cursive;
+    font-family: 'Roboto Mono', monospace;
     font-size: 4rem;
 }
 
 
-.pepino {
+.pepinox1 {
     font-family: 'Russo One', sans-serif;
     font-size: 17px;
 }
 
-.pepino3 {
+.pepinox2 {
     font-family: 'Russo One', sans-serif;
 }
 
-ol li {  
-   
-    font-family: 'Bungee', cursive;
-    font-size: 1rem;
 
- }
-*/
+
+
+
+
+ 
+
 /*
 coffe-gamer
 font-family: 'Amatic SC', cursive;
@@ -45,7 +47,7 @@ font-family: 'Amatic SC', cursive;
 
 */
 
-.coffe-gamer {
+.coffe-lofi {
     font-family: 'Amatic SC', cursive;
     font-size: 4rem;
     margin: 10px;
@@ -67,26 +69,14 @@ li {
 }
 
 
-.imagem {
-  max-width: 50px;
-  padding: 20px;
-  position: left;
-  flex-direction: column;
-}
 
-body {
-  
-}
+
 
 .conteiner1 {
-  display: flex;
+  
   background-color: #8FBC8F;
 
 }
 
-.imagem3 {
-    position: relative;
-   position: bottom 100%;
-   
-    display: flex;
-}
+
+  
